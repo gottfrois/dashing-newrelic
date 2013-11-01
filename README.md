@@ -2,6 +2,8 @@
 
 [Dashing-Rails](https://github.com/gottfrois/dashing-rails) widget that display Newrelic metrics.
 
+<img src="https://dl-web.dropbox.com/get/Public/newrelic-widget.png?w=AAC1_oX4yFdgjwuqC-ujWtx5-Z3-I_zca31RdTFkY6peeA" width="300">
+
 ## Installation
 
 Add this line to your [Dashing-Rails](https://github.com/gottfrois/dashing-rails) application's Gemfile:
