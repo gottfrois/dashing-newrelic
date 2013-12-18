@@ -86,3 +86,7 @@ Full credits for this widget should go to [Tair Assimov](https://github.com/assi
 ## License
 
 dashing-semaphore is released under the MIT License. Developed by [Tair Assimov](https://github.com/rastasheep). Adapted by [gottfrois](https://github.com/gottfrois).
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/gottfrois/dashing-newrelic/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
